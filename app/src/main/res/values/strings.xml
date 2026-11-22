@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Front Flash</string>
+    <string name="tile_label">Front Flash</string>
+    <string name="toggle">Toggle front flash</string>
+    <string name="found_front">Front flash found (camera id %1$s).</string>
+    <string name="no_front_flash">This ROM does not expose a front flash torch to apps.</string>
+    <string name="add_tile_hint">Swipe down twice, tap the pencil/edit icon, and drag the "Front Flash" tile into your Quick Settings.</string>
+</resources>
